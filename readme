@@ -1,0 +1,4 @@
+git clone 
+go into directory
+npm install 
+npm run dev
